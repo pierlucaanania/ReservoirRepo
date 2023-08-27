@@ -1,5 +1,5 @@
 '''
-Calcolatrice
+ Calcolatrice
 '''
 from math import sqrt
 
