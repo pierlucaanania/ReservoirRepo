@@ -48,7 +48,7 @@ class Studente(Persona):
         print('Corso Aggiornato')
 
 class Insegnante(Persona):
-    profilo = 'Insegnante'
+    profilo = 'Insegnante '
 
     def __init__(self, nome, cognome, età, residenza, materia = None):
         super().__init__(nome, cognome, età, residenza)
