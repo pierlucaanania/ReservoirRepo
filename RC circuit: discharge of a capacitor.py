@@ -28,7 +28,7 @@ import matplotlib.pyplot as plt
 '''Values'''
 
 C = 0.01
-R = 10
+R = 7
 tau = R*C
 V0 = 1
 t_0 = 0
