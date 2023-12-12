@@ -32,7 +32,7 @@ R = 7
 tau = R*C
 V0 = 1
 t_0 = 0
-t_end = 1
+t_end = 3
 t = np.linspace(t_0,t_end,100)
 
 ###
