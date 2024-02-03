@@ -12,6 +12,7 @@ Benvenuti al programma calcolatrice: funzioni disponibili
 5 - esponenziale
 6 - radice quadrata
 7 - chiudi calcolatrice
+
 '''
 
 while True:
